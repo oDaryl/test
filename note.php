@@ -1,9 +1,4 @@
-asda
-gjghjgh
-ghjghj
-ghj
-l;
-gfdg
-l'
+<?php
+echo 'github上做此修改';
 
-;
+?>
